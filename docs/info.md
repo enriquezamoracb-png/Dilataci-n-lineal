@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Converts an electrical signal measured in a system into temperature
 
 ## How to test
 
-Explain how to use your project
+Test the circuit stage by stage: verify power and Vref, replace the sensor with precision resistors or a calibrated voltage source, check ADC codes against known inputs, then compare end-to-end readings to a calibrated reference thermometer at several temperatures and calibrate out any offset and gain error.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Digital display 7 segments
